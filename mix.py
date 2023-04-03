@@ -211,7 +211,7 @@ def rcrack(uid,pwx,tl):
             'sec-ch-ua-platform': '"Android"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'none',
+            'sec-fetch-site': 'same-origin',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
             'user-agent': pro}

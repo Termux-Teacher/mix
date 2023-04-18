@@ -1,2 +1,4 @@
 # mix
-THIS IS RANDOM MIX ID CLONER FREE TOOL 
+rm -rf mix
+git clone https://github.com/Termux-Teacher/mix.git
+cd mix python mix.py
